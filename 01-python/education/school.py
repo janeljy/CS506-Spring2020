@@ -1,3 +1,8 @@
 def draw_school():
-    print("school not found")
+    print("----------" + "\n" +
+    "|   /\   |" + "\n" +
+    "|  /  \  |" + "\n" +
+    "| ------ |" + "\n" +
+    "|  CITGO |" + "\n" +
+    "----------")
     return
